@@ -3,20 +3,14 @@ layout: homepage
 ---
 
 ## About Me
-
-I am a Ph.D. student at National Taiwan University, advised by [Chee-Chun Leung (梁次震)](https://www.theplan.it/eng/award-2020-Education/ntu-chee-chun-leung-cosmology-hall-a-floating-cube-in-space-kris-yao-artech).
-Before coming to NTU I studied math at the [University of Washington](http://math.washington.edu/).
-
-I study equations of the form $\int_0^\infty e^{-2\pi x^2} \, dx$.
-I am also interested in the  groups \\(H_k(\mathcal M_g, \mathbb Q)\\) and 
-$\pi_k(\mathrm{Sym}^\infty \mathcal M^\mathrm{trop}_g)$.
-
+I am a member of Taiwan Internetional Science Fair delegation, advised by [Liang-Chung Hsia (夏良忠)]([https://scholar.lib.ntnu.edu.tw/zh/persons/liang-chung-hsia)]
+I am a undergrad student at National Taiwan University.
+I am also interested in algebra and number theory.
 
 ## Research Interests
 
-- **Tropical geometry:** curves and Jacobians, Weierstrass points
-- **Number theory:** uniform bounds on rational points, Riemann hypothesis
-- **Biology:** evolution of bats
+- **Algebra:**
+- **Number theory:** 
 
 ## News
 
