@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-I am a member of Taiwan Internetional Science Fair delegation, advised by [Liang-Chung Hsia (夏良忠)]([https://scholar.lib.ntnu.edu.tw/zh/persons/liang-chung-hsia)]
+I am a member of 2025 Taiwan Internetional Science Fair delegation, advised by [Liang-Chung Hsia (夏良忠)]([https://scholar.lib.ntnu.edu.tw/zh/persons/liang-chung-hsia)]
 I am a undergrad student at National Taiwan University.
 I am also interested in algebra and number theory.
 
